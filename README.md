@@ -7,7 +7,7 @@ Paper:Semi-supervised Neural Process for Anomaly Detection
 
 ### Requirements
 
-The code was tested with `python 3.8`, `pytorch 1.9.0`, `cudatookkit 10.2, and `cudnn 7.6.5`. Install the dependencies via [Anaconda](https://www.anaconda.com/):
+The code was tested with `python 3.8`, `pytorch 1.9.0`, `cudatookkit 10.2`, and `cudnn 7.6.5`. Install the dependencies via [Anaconda](https://www.anaconda.com/):
 
 ```shell
 # create virtual environment
